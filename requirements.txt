@@ -1,0 +1,2 @@
+numpy==1.23.0
+praat-parselmouth==0.4.1
